@@ -1,1 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    /* "Resetando" alguns valores como margin e padding e box-sizing com valor border-box para pegar de borda a borda */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #111111;
+    color: white;
+}
