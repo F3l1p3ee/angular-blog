@@ -6,3 +6,12 @@
     background-color: #111111;
     color: white;
 }
+
+p {
+    font-size: 16px;
+    color: gray;
+}
+
+a {
+    text-decoration: none;
+}
